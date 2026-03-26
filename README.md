@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-6c47ff?style=for-the-badge)
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-9b75ff?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-3.0.0-bf47ff?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/yourusername/erome-downloader?style=for-the-badge&color=f0a020)
+![Stars](https://img.shields.io/github/stars/cherootedwardsnowden/erome-downloader?style=for-the-badge&color=f0a020)
 
 <br/>
 
